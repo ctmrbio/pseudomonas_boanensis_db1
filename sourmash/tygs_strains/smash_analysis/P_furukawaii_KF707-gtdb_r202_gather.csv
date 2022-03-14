@@ -1,0 +1,2 @@
+intersect_bp,f_orig_query,f_match,f_unique_to_query,f_unique_weighted,average_abund,median_abund,std_abund,name,filename,md5,f_match_orig,unique_intersect_bp,gather_result_rank,remaining_bp,query_filename,query_name,query_md5,query_bp
+6153000,1.0,1.0,1.0,1.0,,,,"GCF_002355475.1 Pseudomonas furukawaii strain=KF707, ASM235547v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,c8668c194ff5dea5f1a56090a7b30fad,1.0,6153000,0,0,P_furukawaii_KF707.fna.gz,,c8668c19,6153000
